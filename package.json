@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "vue": "^2.6.6",
-    "vue-table-blegoh1": "^1.0.1"
+    "vue-table-blegoh1": "^1.0.7"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^3.4.0",
