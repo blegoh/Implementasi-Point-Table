@@ -1649,6 +1649,11 @@ builtin-status-codes@^3.0.0:
   resolved "https://registry.yarnpkg.com/builtin-status-codes/-/builtin-status-codes-3.0.0.tgz#85982878e21b98e1c66425e03d0174788f569ee8"
   integrity sha1-hZgoeOIbmOHGZCXgPQF0eI9Wnug=
 
+bulma@^0.7.4:
+  version "0.7.4"
+  resolved "https://registry.yarnpkg.com/bulma/-/bulma-0.7.4.tgz#7e74512e9118d9799021339e67e365ee0ac4f3f9"
+  integrity sha512-krG2rP6eAX1WE0sf6O0SC/FUVSOBX4m1PBC2+GKLpb2pX0qanaDqcv9U2nu75egFrsHkI0zdWYuk/oGwoszVWg==
+
 bytes@3.0.0:
   version "3.0.0"
   resolved "https://registry.yarnpkg.com/bytes/-/bytes-3.0.0.tgz#d32815404d689699f85a4ea4fa8755dd13a96048"
@@ -7580,6 +7585,14 @@ vue-style-loader@^4.1.0:
   dependencies:
     hash-sum "^1.0.2"
     loader-utils "^1.0.2"
+
+vue-table-blegoh1@^1.0.1:
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/vue-table-blegoh1/-/vue-table-blegoh1-1.0.1.tgz#0f6e46d1cdcda6406ead923c1fba4363dd3699dd"
+  integrity sha512-5u/2Lss3vK9XdUX/Dr6389HJ5Sx5p6vrNr96oPAHvH3y42UVcev6c/i0bNlgNYlEm+eRQXHx4Wu7sOUIbrOm4g==
+  dependencies:
+    bulma "^0.7.4"
+    vue "^2.6.6"
 
 vue-template-compiler@^2.5.21:
   version "2.6.7"
